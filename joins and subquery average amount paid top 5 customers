@@ -1,4 +1,4 @@
-Writing subquery to determine average amount paid by top 5 customers
+Writing joins and subquery to determine average amount paid by top 5 customers
 
 
 SELECT AVG(total_amount_paid)
